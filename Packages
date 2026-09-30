@@ -1,0 +1,21 @@
+Package: com.ichitaso.otadisabler
+Version: 0.6
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: debs/com.ichitaso.otadisabler_0.6_iphoneos-arm64e.deb
+Size: 67492
+MD5sum: e73e3fd7b3d1b18c97500424f0c3edea
+SHA1: 66bbeb221b3d63287c981887c9382ccedbb5f4c4
+SHA256: af0fb3a4c719042fbd47204a340cbe1fb6d457340c936a6e94349b9829cd6011
+Section: System
+Homepage: https://ichitaso.com
+Description: Disable OTA and remove badges on home screen, etc.
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisabler/Icon-60%403x.png
+Name: OTADisabler
+Sileodepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
+
