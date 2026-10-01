@@ -1,3 +1,19 @@
+Package: com.hoabeo.hbtouch
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: hoabeo
+Installed-Size: 15796
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate
+Filename: debs/com.hoabeo.hbtouch_0.1.0_iphoneos-arm64e.deb
+Size: 4350578
+MD5sum: e865319c8cdabfe1496697d3868a6cc1
+SHA1: e4e9712873f0ad5ebbf30a0c92fed785421c158a
+SHA256: 9d4e2b7fa339041b8f808b2fdcea861be8356f5ff935f3af7d73361e65b4c1bf
+Section: Utilities
+Description: AutoTouch-like Lua automation: touch simulation, screen capture, color/image finding, script editor.
+Author: hoabeo
+Name: HBTouch
+
 Package: com.ichitaso.otadisabler
 Version: 0.6
 Architecture: iphoneos-arm64e
