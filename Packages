@@ -1,3 +1,46 @@
+Package: com.hoabeo.hbtouch
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: hoabeo
+Installed-Size: 15796
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate
+Filename: debs/com.hoabeo.hbtouch_0.1.0_iphoneos-arm64e.deb
+Size: 4351198
+MD5sum: 2771ae4c9ed24f4374b4273a7e93389e
+SHA1: bff73be67d011f8f8d6607b2b2ec62a952439a38
+SHA256: a570e3ba04f598ba64001749c4cd367d368d86f972fb01d40231a5e1314ea935
+Section: Utilities
+Description: AutoTouch-like Lua automation: touch simulation, screen capture, color/image finding, script editor.
+Author: hoabeo
+Name: HBTouch
+
+Package: com.hoabeo.hbtouch18
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: hoabeo
+Installed-Size: 10372
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate
+Filename: debs/com.hoabeo.hbtouch18_0.1.0_iphoneos-arm64.deb
+Size: 3715420
+MD5sum: 2139e93e22e5a15e87dbfb0c3d54dffc
+SHA1: 1a5e10e3d26ae2f1aae8cbc1c869b31a4d88963c
+SHA256: d6a91fb3951b4857f6e78e482c492d25e293908a8f864b60bd026905bf4c7590
+Section: Utilities
+Homepage: https://hoabeoios.online
+Description: Tự động hoá iOS bằng script Lua kiểu AutoTouch (rootless iOS 18)
+ HBTouch chạy script Lua 5.4 để tự động hoá thao tác trên iPhone/iPad jailbreak: mô phỏng chạm/vuốt đa điểm, chụp & phân tích màn hình, tìm màu/ảnh/chữ.
+ .
+ Tính năng chính:
+ - Soạn script ngay trên máy + Web Dashboard mở từ trình duyệt máy tính: log realtime, chụp màn hình, lấy toạ độ & màu, điều khiển máy từ xa.
+ - Bộ hàm giống AutoTouch: tap / swipe / touchDown, getColor / findColor / findImage, OCR nhận chữ (hỗ trợ tiếng Việt), điều khiển app, nhập chữ, hẹn giờ, chạy nền.
+ - Chạy nhiều script song song; vẫn chạy khi đóng app.
+ - Mã hoá script (.hb) bảo vệ bản quyền, có thể khoá theo từng máy.
+ - Kích hoạt bản quyền online.
+ .
+ Dành cho jailbreak rootless iOS 18 (Dopamine). Hỗ trợ & mua key: Zalo 0964499212 · Telegram @hoahoa1223
+Author: hoabeo
+Name: HBTouch (iOS 18)
+
 Package: com.ichitaso.otadisabler
 Version: 0.6
 Architecture: iphoneos-arm64e
