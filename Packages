@@ -18,13 +18,13 @@ Package: com.hoabeo.hbtouch18
 Version: 0.1.0
 Architecture: iphoneos-arm64
 Maintainer: hoabeo
-Installed-Size: 10372
+Installed-Size: 10388
 Depends: firmware (>= 15.0), ellekit | mobilesubstrate
 Filename: debs/com.hoabeo.hbtouch18_0.1.0_iphoneos-arm64.deb
-Size: 3715420
-MD5sum: 2139e93e22e5a15e87dbfb0c3d54dffc
-SHA1: 1a5e10e3d26ae2f1aae8cbc1c869b31a4d88963c
-SHA256: d6a91fb3951b4857f6e78e482c492d25e293908a8f864b60bd026905bf4c7590
+Size: 3718900
+MD5sum: c88ea6db4c88d4ac211f5a1bf82374cc
+SHA1: 1db891684fb75d2b5c1acfec90f41f0e0bc6dcec
+SHA256: 1907de16e76bbcf883895a6f5d2bad5a36e5e1a033277f8ec5011573931477db
 Section: Utilities
 Homepage: https://hoabeoios.online
 Description: Tự động hoá iOS bằng script Lua kiểu AutoTouch (rootless iOS 18)
