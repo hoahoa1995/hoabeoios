@@ -1,3 +1,19 @@
+Package: com.hoabeo.hbdevice
+Version: 0.1.0-465+debug
+Architecture: iphoneos-arm64e
+Maintainer: hoa
+Installed-Size: 46144
+Depends: ellekit | mobilesubstrate, rootless-compat
+Filename: debs/com.hoabeo.hbdevice_0.1.0_iphoneos-arm64e.deb
+Size: 18764668
+MD5sum: a5a9d7e882e210262d64592a269fa676
+SHA1: 07556b478f03a1cf296088b94fa52b2ce887d512
+SHA256: 4c686588c51601402477d2ceda2a6b07223318dfd583956d9bfd72769188239d
+Section: Tweaks
+Description: Per-app device identity spoofer with CLI control.
+Author: hoa
+Name: hbdevice
+
 Package: com.hoabeo.hbtouch
 Version: 0.1.0
 Architecture: iphoneos-arm64e
