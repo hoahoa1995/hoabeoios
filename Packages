@@ -1,3 +1,23 @@
+Package: com.hoabeo.hbdevice
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: hoa <hoanguyencongvo@gmail.com>
+Installed-Size: 30804
+Pre-Depends: ellekit | mobilesubstrate
+Depends: ellekit | mobilesubstrate, rootless-compat, libsqlite3-1, sqlite3
+Conflicts: com.hoabeo.hbdevicesfr
+Replaces: com.hoabeo.hbdevicesfr
+Filename: debs/com.hoabeo.hbdevice-v5h_0.1.0_iphoneos-arm64e.deb
+Size: 12863620
+MD5sum: c96ba3ba558818dc7122f22c3c8da14d
+SHA1: 10d73d60e794acb4ea29bfaebffa796811828019
+SHA256: 4c4f0aebedd1f8238dc48a8e7dde6ed4fa270436a3323ebe828f0c88f1a4b29e
+Section: Tweaks
+Priority: optional
+Description: HBDevice
+Author: hoa <hoanguyencongvo@gmail.com>
+Name: HBDevice
+
 Package: com.hoabeo.hbtouch
 Version: 0.1.0
 Architecture: iphoneos-arm64e
