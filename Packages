@@ -18,49 +18,6 @@ Description: HBDevice
 Author: hoa <hoanguyencongvo@gmail.com>
 Name: HBDevice
 
-Package: com.hoabeo.hbtouch
-Version: 0.1.0
-Architecture: iphoneos-arm64e
-Maintainer: hoabeo
-Installed-Size: 15896
-Depends: firmware (>= 15.0), ellekit | mobilesubstrate
-Filename: debs/com.hoabeo.hbtouch_0.1.0_iphoneos-arm64e.deb
-Size: 4374458
-MD5sum: 339b940b921170c7e22ff0bdd6c78d64
-SHA1: 7e0fef1ad7adb395c44ca7672fd5b4b83ad95073
-SHA256: 0c29a1151ba3fd2a14a227d45bf66a7d258779992cf3b5abfa6056f46ac2410a
-Section: Utilities
-Description: AutoTouch-like Lua automation: touch simulation, screen capture, color/image finding, script editor.
-Author: hoabeo
-Name: HBTouch
-
-Package: com.hoabeo.hbtouch18
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: hoabeo
-Installed-Size: 10388
-Depends: firmware (>= 15.0), ellekit | mobilesubstrate
-Filename: debs/com.hoabeo.hbtouch18_0.1.0_iphoneos-arm64.deb
-Size: 3718900
-MD5sum: c88ea6db4c88d4ac211f5a1bf82374cc
-SHA1: 1db891684fb75d2b5c1acfec90f41f0e0bc6dcec
-SHA256: 1907de16e76bbcf883895a6f5d2bad5a36e5e1a033277f8ec5011573931477db
-Section: Utilities
-Homepage: https://hoabeoios.online
-Description: Tự động hoá iOS bằng script Lua kiểu AutoTouch (rootless iOS 18)
- HBTouch chạy script Lua 5.4 để tự động hoá thao tác trên iPhone/iPad jailbreak: mô phỏng chạm/vuốt đa điểm, chụp & phân tích màn hình, tìm màu/ảnh/chữ.
- .
- Tính năng chính:
- - Soạn script ngay trên máy + Web Dashboard mở từ trình duyệt máy tính: log realtime, chụp màn hình, lấy toạ độ & màu, điều khiển máy từ xa.
- - Bộ hàm giống AutoTouch: tap / swipe / touchDown, getColor / findColor / findImage, OCR nhận chữ (hỗ trợ tiếng Việt), điều khiển app, nhập chữ, hẹn giờ, chạy nền.
- - Chạy nhiều script song song; vẫn chạy khi đóng app.
- - Mã hoá script (.hb) bảo vệ bản quyền, có thể khoá theo từng máy.
- - Kích hoạt bản quyền online.
- .
- Dành cho jailbreak rootless iOS 18 (Dopamine). Hỗ trợ & mua key: Zalo 0964499212 · Telegram @hoahoa1223
-Author: hoabeo
-Name: HBTouch (iOS 18)
-
 Package: com.hoabeo.showalert
 Version: 0.0.1-7+debug
 Architecture: iphoneos-arm64e
