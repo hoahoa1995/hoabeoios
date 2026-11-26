@@ -82,3 +82,19 @@ Icon: https://raw.githubusercontent.com/ichitaso/OTADisabler-App/main/OTADisable
 Name: OTADisabler
 Sileodepiction: https://cydia.ichitaso.com/depiction/otadisabler.json
 
+Package: com.yourepo.vcamios.vcamiosaudioroothide
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: 34306 <vcamios@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/5_6199740886109133490_1.deb
+Size: 36496
+MD5sum: 0ca06517767f875760dc65f7e805c0f0
+SHA1: 4fcbba6f0fcd5240d1f3b211ed5593c6d82c89bc
+SHA256: 0c68d49e964e88afec036fb0c2a2c606696ecb3a2978bbb2b4dad40d6ed9d68a
+Section: Tweaks
+Description: Fake Camera iPhone Activate by pressing volume +- button
+Author: 34306 <vcamios@gmail.com>
+Name: Vcamios Audio (Roothide)
+
