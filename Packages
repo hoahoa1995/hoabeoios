@@ -61,6 +61,23 @@ Description: Tự động hoá iOS bằng script Lua kiểu AutoTouch (rootless 
 Author: hoabeo
 Name: HBTouch (iOS 18)
 
+Package: com.hoabeo.showalert
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm64e
+Maintainer: hoa
+Installed-Size: 360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hoabeo.showalert_0.0.1-7+debug_iphoneos-arm64e.deb
+Size: 17362
+MD5sum: a3674508ea0e865851683fc904265544
+SHA1: 82026e2fdae827eea4ade7bb2c3e519a2826bb82
+SHA256: ac41e8160ccaf638a12a5be43dc0d845382ef9141fc35af0da099b28f8fd9063
+Section: Tweaks
+Description: CLI-controlled alert overlay tweak
+Author: hoa
+Name: showalert
+
 Package: com.ichitaso.otadisabler
 Version: 0.6
 Architecture: iphoneos-arm64e
